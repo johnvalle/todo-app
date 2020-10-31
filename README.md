@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
-This project was created to demonstrate React with Typescript. For light state management, React's Context API is used together with Immer.js.
+This project was created to demonstrate React with Typescript. 
+For light state management, React's Context API is used together with Immer.js.
+The concept of actions and reducers were also used for handling state.
 
 # Tools Used
 
